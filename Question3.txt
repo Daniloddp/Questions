@@ -1,0 +1,8 @@
+3. Why JSON is better than XML?
+
+
+
+The JSON nowadays is much more popular than the XML indeed. 
+It is easy to read, lightweight and capable of struct information in a compact way.
+Besides JSON popularity, XML is not dead and seems to be a preference in some cases, 
+depending on the characteristics of the project.

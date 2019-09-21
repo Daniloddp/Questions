@@ -1,0 +1,8 @@
+5. When a table column is defined as UNIQUE, most DB system
+automatically create an index for that column. Why?
+
+
+
+The DB system guarantees that the index key has no duplicated value, therefore, 
+each line on the table is unique, avoiding the necessity to check each line 
+of the table to confirm it.
