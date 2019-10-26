@@ -3,7 +3,7 @@
 
 
 
-HTTP 1.0 opens a new connection for each request/response pair and the close the
+HTTP 1.0 opens a new connection for each request/response pair and then close the
 connection after each response.
 By allowing persistent connection by default, HTTP 1.1 turns possible to have 
 more than one request/response on the same HTTP connection.
